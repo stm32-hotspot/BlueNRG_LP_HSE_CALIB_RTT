@@ -29,7 +29,7 @@
 
 ## User Guide
 
-1) Connect the J-Link Debug Probe to the EVAL board.
+1) Follow this [article](https://community.st.com/t5/stm32-mcus/how-to-connect-a-j-link-debug-probe-to-the-steval-idb011v1-v2/ta-p/612690) to connect the J-Link Debug Probe to the EVAL board.
 
     ![RM_IMAGE_0](Utilities/Media/RM_IMAGE_0.png)
 
